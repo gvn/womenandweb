@@ -1,0 +1,8 @@
+Thu Nov 10 2016 15:17:42 GMT-0800 (PST)
+
+
+commit 043c4850c63ba40a536926e26a8333e1c6cb6c87
+Author: Gavin Lazar Suntop <gavin@gsuntop.com>
+Date:   Thu Nov 10 15:17:00 2016 -0800
+
+    removing nodegit & check for dirty repo
